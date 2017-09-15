@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ElasticSearch Learning Notes - Basics"
+title:  "ElasticSearch - Basics"
 date:   2017-09-15 +0800
 categories: learning notes
 ---
